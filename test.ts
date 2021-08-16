@@ -6,3 +6,5 @@ This is my first edit
 
 my second edit
 testing file
+
+coding class practice session
